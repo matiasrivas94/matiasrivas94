@@ -15,6 +15,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,vue,vite,tailwind,postman,git,gitlab,github,nodejs,express,androidstudio,visualstudio)
 ### In Progress
 ![](https://skillicons.dev/icons?i=docker,mongodb,graphql,golang)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4C89?style=flat-square&logo=n8n&logoColor=white)
+
 ## 🔗 Links - Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-ezequiel-rivas/)
 
