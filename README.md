@@ -11,7 +11,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 - I enjoy working in teams and collaborating with other people.
 
 
-## 🛠 Skills
+## 🛠 Languages and Tools
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,vue,vite,tailwind,postman,git,gitlab,github,nodejs,express,androidstudio,visualstudio)
 ### In Progress
 ![](https://skillicons.dev/icons?i=docker,mongodb,graphql,golang)
