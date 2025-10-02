@@ -23,4 +23,4 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 [![github](https://img.shields.io/badge/github-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matiasrivas94)
 
-[![gmail](https://img.shields.io/badge/matiasrivasrivas202@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![gmail](https://img.shields.io/badge/matiasrivas202@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white)]()
